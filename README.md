@@ -63,7 +63,7 @@
   <tr valign="middle">
     <td align="left">
       <h1>Experiencia</h1>
-Isometrical · Fundador y Desarrollador (2018 — hoy)
+<p>Isometrical · Fundador y Desarrollador (2018 — hoy)
 Estudio propio con dos frentes: un sello indie que lleva videojuegos simples a comunidades, y una unidad de software que desarrolla aplicaciones web y de escritorio a la medida para negocios. Dirijo cada proyecto de punta a punta —diseño, backend, arquitectura y entrega— con C#/.NET y buenas prácticas de ingeniería.
 
 Freelance · Desarrollador de Software independiente
