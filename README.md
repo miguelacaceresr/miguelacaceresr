@@ -58,9 +58,7 @@
       ╰─
 </pre><a href="https://www.codewars.com/users/miguelacaceresrios"><img src="https://www.codewars.com/users/miguelacaceresrios/badges/large" width="100%" alt="Codewars"></a><br><a href="https://leetcode.com/miguelacaceresrios/"><img src="https://leetcard.jacoblin.cool/miguelacaceresrios?theme=dark&font=Nunito" width="100%" alt="LeetCode Stats"></a></div></td></tr></table> 
 
-<!------------------------------ EXPERIENCIA ------------------------------------->
 ---
-
 <table align="center" width="85%">
   <tr valign="middle">
     <td align="left">
@@ -73,14 +71,9 @@ Estudio propio con dos frentes: un sello indie que lleva videojuegos simples a c
 Freelance · Desarrollador de Software independiente
 Software a la medida y proyectos de seguridad informática para clientes externos, con control de versiones, documentación y revisión de código en cada entrega.
 
-Formador de Programación · Comunidades propias
-Años enseñando programación desde cero a jóvenes de forma independiente, más soporte técnico y mentoría voluntaria a proyectos de la comunidad.></p>
-  </table> </tr> </td>
+></p></table> </tr> </td>
 
-
-<!--  ------------------   EDUCACION  ----------------------->
 ---
-
 <table align="center" width="85%">
   <tr valign="middle">
     <td align="left">
