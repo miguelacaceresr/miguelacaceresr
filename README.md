@@ -76,7 +76,7 @@ Software a la medida y proyectos de seguridad informática para clientes externo
 <p>Ingeniería de Sistemas · Universidad Piloto de Colombia 
 
 Técnico en Aplicaciones y Servicios en la Nube · SENA
-Formación continua · Certificaciones en distintas áreas de la programación — Coursera y otras plataformas</p>
+Formación continua </p>
     </td>
   </tr> <br>
 </table>
