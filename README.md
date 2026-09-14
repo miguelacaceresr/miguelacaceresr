@@ -77,9 +77,4 @@ Software a la medida y proyectos de seguridad informática para clientes externo
 
 Técnico en Aplicaciones y Servicios en la Nube · SENA
 Formación continua </p>
-    </td>
-  </tr> <br>
-</table>
-
----
-
+</td> </tr> <br> </table>
