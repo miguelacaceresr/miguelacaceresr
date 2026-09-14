@@ -1,106 +1,97 @@
-<table width="100%" cellpadding="10">
-<tr><td>
+<div align="center"><img src="https://i.postimg.cc/7ZMmj0Ss/a.webp" width="100%" alt="banner"></div><br>
+<table align="center" width="85%"><tr valign="middle"><td align="left"><h1>Sobre mí</h1><p><b>Desde 2012</b> he enfocado mi vida en el desarrollo de videojuegos, una pasión que nació en mi infancia y definió mi camino profesional. Sin contar con herramientas ni guía, mis primeros pasos fueron autodidactas y llenos de ensayo y error.</p><p>En <b>2014</b> comencé a trabajar con distintos motores y lenguajes de programación, creando mis primeros prototipos. Con el tiempo desarrollé mejores hábitos, dominio técnico y una visión más completa de la ingeniería de software. En <b>2023</b> destaqué en mis estudios técnicos y actualmente continúo mi formación universitaria, con la meta de consolidar mi carrera en la industria tecnológica. <br> </br> </p> </td> </tr> </table>
 
-<table width="100%">
-<tr><td>
+---
 
-<h2>About</h2>
+<!-- i hate making this --> <!-- i fix that lol -->
+<table align="center" width="92%">  <tr valign="top">  <td align="right" width="50%"> <pre>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣯⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⢺⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⣧⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢶⣿⣋⣟⠭⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣭⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⢮⣳⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡿⣦⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⠢⣽⣅⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡆⢤⣿⡇⠀⠀⠀⠀⣸⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⠸⣞⡇⠀⠀⠀⠀⡏⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡄⣿⣷⠀⠀⠀⠀⢻⡈⢣⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣇⢸⣿⡆⠀⠀⠀⠀⢳⣬⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡈⣿⣧⠀⠀⢠⡄⣸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡇⢹⣿⡀⠀⢸⢧⠟⢹⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠸⣿⡇⣠⠋⢾⣾⢸⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡖⠀⠸⣿⣶⣿⣷⡏⢰⡿⢿⠏⣸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⣴⢋⣿⣿⣿⠇⡟⠁⣏⠀⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡞⣏⢦⠇⢸⡿⢿⠋⢀⣤⣀⡘⢦⡟⢸⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⠃⢀⣴⡆⠀⠀⠈⣹⣿⡷⠆⠀⣧⠈⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠜⢁⡴⠋⡀⠙⢄⠀⣰⣿⣟⠓⠀⠀⢉⣴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⢰⡏⡠⠊⢀⡴⣇⠀⢀⡞⠉⠛⠀⡀⢀⣄⣩⠌⠙⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⢣⠶⠖⠊⢀⣈⠉⣹⡷⢀⣴⡯⠔⣛⡵⠁⣠⡏⠸⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢹⡿⢿⠟⠀⣰⡞⠉⣿⡷⠇⠃⣠⢴⣶⣾⡋⢀⡴⣽⠁⠀⠘⣏⣀⢰⣆⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣠⣶⣶⣅⣠⣶⠀⠒⠟⢁⡴⠋⠀⠀⠀⢹⣿⣿⡋⣧⢸⡇⡏⣀⣀⠀⠙⣿⣉⠙⢤⡄⠀⠀⠀
+⠀⠀⣠⣴⣺⢿⣿⣿⡛⠛⠿⠿⣯⣷⡲⣶⣟⣻⡀⠀⣠⣿⣿⣖⣸⣨⣿⠿⠛⣻⣿⣶⣾⣾⠇⠀⠻⣄⠀⠀
+⠀⣾⢟⠿⠿⢶⣮⡙⢏⢢⡀⢠⡌⣿⣿⡿⠟⡿⢳⣼⣿⣿⣿⣾⣿⣧⣤⣤⣤⣿⣿⣭⣿⠁⠀⠀⣀⣈⣧⠀
+⢺⣥⢿⠾⠿⠿⠿⡿⠚⢋⣠⠯⣿⢉⢉⠻⠾⠛⢿⣿⠻⠿⢛⢋⣤⣯⣭⠽⠶⣾⣻⢿⣻⢿⠶⢛⣻⡿⢽⠄
+      </pre> </td> <td align="center" width="50%"> <div align="left"> <pre>&nbsp;
+       gato@nixos
+      ──────────────────────────────────────────
+      ╭─ Hardware
+      │  CPU    : Intel i5-1135G7 
+      │  RAM    : 7.51 GiB 
+      │  Disk   : 232.69 GiB 
+      ╰─
+      ╭─ Software
+      │  OS     : NixOS 25.11 
+      │  pkgs   : 1770 
+      │  Kernel : Linux 6.12.83
+      │  WM     : Hyprland 
+      │  Shell  : bash 5.3.3
+      │  Term   : kitty
+      │  Editor : VSCode
+      ╰─
+      ╭─ 
+      │  ▂▂⌇ ./esp/eng
+      ╰─
+</pre><a href="https://www.codewars.com/users/miguelacaceresrios"><img src="https://www.codewars.com/users/miguelacaceresrios/badges/large" width="100%" alt="Codewars"></a><br><a href="https://leetcode.com/miguelacaceresrios/"><img src="https://leetcard.jacoblin.cool/miguelacaceresrios?theme=dark&font=Nunito" width="100%" alt="LeetCode Stats"></a></div></td></tr></table> 
 
-<blockquote>
-Systems engineer and software developer.<br>
-Focused on custom software, automation, research and system design.<br>
-Personal projects include web platforms, monitoring systems and experimental security tooling.
-</blockquote>
+<!------------------------------ EXPERIENCIA ------------------------------------->
+---
 
-</td></tr>
+<table align="center" width="85%">
+  <tr valign="middle">
+    <td align="left">
+      <h1>Experiencia</h1>
+<pExperiencia
+
+Isometrical · Fundador y Desarrollador (2018 — hoy)
+Estudio propio con dos frentes: un sello indie que lleva videojuegos simples a comunidades, y una unidad de software que desarrolla aplicaciones web y de escritorio a la medida para negocios. Dirijo cada proyecto de punta a punta —diseño, backend, arquitectura y entrega— con C#/.NET y buenas prácticas de ingeniería.
+
+Freelance · Desarrollador de Software independiente
+Software a la medida y proyectos de seguridad informática para clientes externos, con control de versiones, documentación y revisión de código en cada entrega.
+
+Formador de Programación · Comunidades propias
+Años enseñando programación desde cero a jóvenes de forma independiente, más soporte técnico y mentoría voluntaria a proyectos de la comunidad.></p>
+  </table> </tr> </td>
+
+
+<!--  ------------------   EDUCACION  ----------------------->
+---
+
+<table align="center" width="85%">
+  <tr valign="middle">
+    <td align="left">
+      <h1>Educacion</h1>
+<p>Ingeniería de Sistemas · Universidad Piloto de Colombia 
+
+Técnico en Aplicaciones y Servicios en la Nube · SENA
+Formación continua · Certificaciones en distintas áreas de la programación — Coursera y otras plataformas</p>
+    </td>
+  </tr> <br>
 </table>
 
-<table width="100%">
-<tr>
+---
 
-<td width="50%" valign="top">
-
-<h2>Experience</h2>
-
-<blockquote>
-Backend development<br>
-Automation systems<br>
-Security research<br>
-Reverse engineering<br>
-Infrastructure testing<br>
-Technical documentation
-</blockquote>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2>Technologies</h2>
-
-<blockquote>
-:contentReference[oaicite:0]{index=0}<br>
-:contentReference[oaicite:1]{index=1}<br>
-:contentReference[oaicite:2]{index=2}<br>
-:contentReference[oaicite:3]{index=3}<br>
-:contentReference[oaicite:4]{index=4}
-</blockquote>
-
-</td>
-
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-<h2>Featured Project</h2>
-
-<blockquote>
-Ojo de Sauron<br>
-Screen telemetry and monitoring system.<br>
-Python based research project.
-</blockquote>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2>Featured Project</h2>
-
-<blockquote>
-Canine Care<br>
-Veterinary platform and service site.<br>
-Built with Astro.
-</blockquote>
-
-</td>
-
-</tr>
-</table>
-
-<table width="100%">
-<tr><td>
-
-<h2>Current Work</h2>
-
-<blockquote>
-Open source tools<br>
-Lab notes<br>
-UI systems<br>
-Security experiments<br>
-Architecture studies
-</blockquote>
-
-</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-<div align="center">
-<img src="TU_GIF" width="100%">
-<br><br>
-<code>end of transmission</code>
-</div>
