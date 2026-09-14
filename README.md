@@ -60,6 +60,7 @@
 <br><a href="https://leetcode.com/miguelacaceresrios/"><img src="https://leetcard.jacoblin.cool/miguelacaceresrios?theme=dark&font=Nunito" width="100%" alt="LeetCode Stats"></a></div></td></tr></table> 
 
 ---
+
 <table align="center" width="85%"> <tr valign="middle"> <td align="left">
 <h1>Experiencia</h1>
        
@@ -74,6 +75,7 @@ Software a la medida y proyectos de seguridad informática para clientes externo
 
 <table align="center" width="85%"> <tr valign="middle"> <td align="left">
 <h1>Educacion</h1>
+       
 <p> Ingeniería de Sistemas · Universidad Piloto de Colombia.
 
 Técnico en Aplicaciones y Servicios en la Nube · SENA
