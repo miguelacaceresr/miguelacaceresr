@@ -70,7 +70,8 @@ Freelance · Desarrollador de Software independiente
 Software a la medida y proyectos de seguridad informática para clientes externos, con control de versiones, documentación y revisión de código en cada entrega.
 </p></table> </tr> </td>
 
----
+--- 
+
 <table align="center" width="85%"><tr valign="middle"> <td align="left">
 <h1>Educacion</h1>
 <p>Ingeniería de Sistemas · Universidad Piloto de Colombia 
