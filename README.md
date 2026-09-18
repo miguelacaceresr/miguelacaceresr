@@ -57,10 +57,8 @@
       │  ▂▂⌇ ./esp/eng
       ╰─
 </pre><a href="https://www.codewars.com/users/miguelacaceresrios">
-       <img src="https://www.codewars.com/users/miguelacaceresrios/badges/large" width="100%" alt="Codewars">
-</a><br>
-       <a href="https://leetcode.com/miguelacaceresrios/">
-              <img src="https://leetcard.jacoblin.cool/miguelacaceresrios?theme=dark&font=Nunito" width="100%" alt="LeetCode Stats"></a></div></td></tr></table> 
+<img src="https://www.codewars.com/users/miguelacaceresrios/badges/large" width="100%" alt="Codewars"></a>
+<br><a href="https://leetcode.com/miguelacaceresrios/"><img src="https://leetcard.jacoblin.cool/miguelacaceresrios?theme=dark&font=Nunito" width="100%" alt="LeetCode Stats"></a></div></td></tr></table> 
 
 ---
 
@@ -76,10 +74,9 @@ Software a la medida y proyectos de seguridad informática para clientes externo
 
 --- 
 
-<table align="center" width="85%"> <tr valign="middle"> <td align="left">
+<table align="center" width="125%"> <tr valign="middle"> <td align="left">
 <h1>Educacion</h1>
-       
-Ingeniería de Sistemas · Universidad Piloto de Colombia.
-
+Ingeniería de Sistemas · Universidad Piloto de Colombia.Ingeniería de Sistemas · Universidad Piloto de Colombia.
 Técnico en Aplicaciones y Servicios en la Nube · SENA
-Formación continua  </td> </tr> <br> </table>
+Formación continua </table>
+ </td> </tr> <br> 
