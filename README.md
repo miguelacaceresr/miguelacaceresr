@@ -74,9 +74,3 @@ Software a la medida y proyectos de seguridad informática para clientes externo
 
 --- 
 
-<table align="center" width="125%"> <tr valign="middle"> <td align="left">
-<h1>Educacion</h1>
-Ingeniería de Sistemas · Universidad Piloto de Colombia.Ingeniería de Sistemas · Universidad Piloto de Colombia.
-Técnico en Aplicaciones y Servicios en la Nube · SENA
-Formación continua </table>
- </td> </tr> <br> 
